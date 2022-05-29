@@ -1,4 +1,3 @@
-//import logo from "./logo.svg";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 import React from "react";
@@ -11,15 +10,6 @@ import Music from "./components/music/Music";
 import Photos from "./components/photos/Photos";
 
 function App() {
-	// const [user, setUser] = useState({
-	// 	firstName: "Unknown",
-	// 	lastName: "User",
-	// 	email: "",
-	// 	avatarUrl: "",
-	// 	isLoggedIn: false,
-	// });
-
-	// currentUser={user} setCurrentUser={setUser} // currentUser={user}
 	return (
 		<React.Fragment>
 			<NavBar />
