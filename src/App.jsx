@@ -8,8 +8,8 @@ import ShowDates from "./components/showDates/ShowDates";
 import Music from "./components/music/Music";
 import Photos from "./components/photos/Photos";
 import PageBanner from "./components/PageBanner";
+import Footer from "./components/Footer";
 import { Routes, Route } from "react-router-dom";
-import Footer from "./components/footer/Footer";
 
 function App() {
   return (
