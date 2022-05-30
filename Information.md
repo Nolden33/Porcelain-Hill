@@ -21,7 +21,8 @@ This section will require a login the the band members and a forms to help them 
 3) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
 4) Font Size: Standard
 5) All Components on home page will be centered with margins on each side.
-6) (possible Carousel for pictures)
+6) Responsive at md size 
+7) (possible Carousel for pictures)
 ## Bio
       Porcelain Hill is an American Rock band, often Expressing elements of
       blues, classic rock, and soul. Formed in 2013 out of Southern
