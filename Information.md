@@ -32,7 +32,7 @@ We are working on the HomePage only right now. We will put:
       7/9 Kingfish, Fayetteville AR
       7/14 Deep ellum Art Co, Dallas TX
       7/17 Yucca Taproom, Phoenix AZ
-## ShowDates
+## Music Videos
 They sent four videos to us. Depending on space available and size of videos, we can decide on how many to put:
 1) https://www.youtube.com/watch?v=M5kqi_jQyn4 
 2) https://www.youtube.com/watch?v=T-dvKTaqBDs
