@@ -60,7 +60,7 @@ They sent four videos to us. Depending on space available and size of videos, we
 ## Merch
 website to merch: https://skullprint.co.uk/shop/ols/categories/porcelain-hill
 ## Other Bands' Pages For References
-1) Doctor Victor: https://doctorvictor.com/?fbclid=IwAR2gAQWaJzxw02y0E-g0YU1YG7b50hjVenoJNH3Xd1ziqnQWYh3VCHYMljo
-2) King Buffalo: https://kingbuffalo.com/?fbclid=IwAR07hMqwN_FGRQHpfgkdzJbxzxHWDOJ17Ufxjh9HcSvazxTUA2uyB8n9Iyo
-3) Rival Sons: https://www.rivalsons.com/?fbclid=IwAR17ciEu5uZW4wthZGF8HtqPF0DvYL4Y0MIYNNudUciWKyUeVnc9D5wCR4Y
-4) 
+1) Porcelian Hill's first website: https://porcelainhill.com/
+2) Doctor Victor: https://doctorvictor.com/?fbclid=IwAR2gAQWaJzxw02y0E-g0YU1YG7b50hjVenoJNH3Xd1ziqnQWYh3VCHYMljo
+3) King Buffalo: https://kingbuffalo.com/?fbclid=IwAR07hMqwN_FGRQHpfgkdzJbxzxHWDOJ17Ufxjh9HcSvazxTUA2uyB8n9Iyo
+4) Rival Sons: https://www.rivalsons.com/?fbclid=IwAR17ciEu5uZW4wthZGF8HtqPF0DvYL4Y0MIYNNudUciWKyUeVnc9D5wCR4Y
