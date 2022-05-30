@@ -7,7 +7,9 @@ import {
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Formik, Field, Form } from "formik";
+
+// import { Formik, Field, Form } from "formik";
+
 
 function Footer() {
   return (
@@ -97,6 +99,7 @@ function Footer() {
               </a>
             </div>
           </div>
+
           <div className="col-4">
             <h3 className="text-style text-center mt-3 red">CONTACT US</h3>
             <h4 className="text-style text-center mt-3">
@@ -147,6 +150,9 @@ function Footer() {
               </Formik>
             </div> */}
           </div>
+
+        
+
         </div>
       </div>
     </React.Fragment>
