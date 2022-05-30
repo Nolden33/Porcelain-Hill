@@ -59,3 +59,8 @@ They sent four videos to us. Depending on space available and size of videos, we
 7) AppleMusic: https://music.apple.com/us/artist/porcelain-hill/839744050?fbclid=IwAR1t195EwQS7ImIkFfRscwY-r7ScLMrj-SpYgGvQUFspFAopsE5qYjtyk2s
 ## Merch
 website to merch: https://skullprint.co.uk/shop/ols/categories/porcelain-hill
+## Other Bands' Pages For References
+1) Doctor Victor: https://doctorvictor.com/?fbclid=IwAR2gAQWaJzxw02y0E-g0YU1YG7b50hjVenoJNH3Xd1ziqnQWYh3VCHYMljo
+2) King Buffalo: https://kingbuffalo.com/?fbclid=IwAR07hMqwN_FGRQHpfgkdzJbxzxHWDOJ17Ufxjh9HcSvazxTUA2uyB8n9Iyo
+3) Rival Sons: https://www.rivalsons.com/?fbclid=IwAR17ciEu5uZW4wthZGF8HtqPF0DvYL4Y0MIYNNudUciWKyUeVnc9D5wCR4Y
+4) 
