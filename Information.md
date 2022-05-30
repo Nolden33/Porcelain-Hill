@@ -12,6 +12,7 @@ Later when we decide on a backend database, we will start adding to the differen
 These components will be set up like the friends/jobs/techCo class project we created before.
 ### Admin section
 We will also include a admin section for the band members. The admin section will be added so that the band members can make changes to their page without having to contact us for help. \ 
+
 This section will require a login the the band members and a forms to help them change the different components on their pages.
 ## Themes
 1) Background color: Black
