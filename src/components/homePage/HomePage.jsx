@@ -4,28 +4,63 @@ function HomePage() {
 	return (
 		<React.Fragment>
 			<div className="container-fluid-md text-style app-bg">
-				<div className="row text-left">
+				<div className="row text-center">
 					<div className="col-2 empty" />
 					<div className="col">
 						<div className="row">
-							<div className="col-3">
+							<div className="col">
 								<div className="bio-pic text-center">
 									<img
-										src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/275309144_483689576449660_8675376664503736988_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=74xWRquyxcMAX84Ardo&tn=jlKmw5xTgT3tYUzY&_nc_ht=scontent-lax3-1.xx&oh=00_AT_FundvTeCVaQij58wCtKFLyM0jLbSV3zWdkiwweK_2jA&oe=6298F7BD"
+										src="https://hosting.photobucket.com/images/i/PorcelainHill/PicsArt_08-02-03.21.46.png"
 										alt=""
-										width="75%"
+										width="50%"
 									/>
 								</div>
 							</div>
+						</div>
+						<div className="row mx-5 my-3 d-flex flex-md-wrap">
+							<div className="col-6 d-inline px-5">
+								<h3>
+									"Their music is a throwback, but it’s also fresh. It is high
+									energy, funky and bluesy at the same time"
+								</h3>
+								<h3 className="mt-3">- Mac, The rust belt chronicles</h3>
+							</div>
+							<div className="col-6 d-inline px-5">
+								<h3>
+									"From the very start it’s fast paced, high energy, blues rock,
+									and you can almost reach out and feel the electricity being
+									generated on the stage"
+								</h3>
+								<h3 className="mt-3">- Tim Marcus, Jace media</h3>
+							</div>
+						</div>
+						<div className="row mt-5 mb-5">
+							<div className="col-3"></div>
+							<div className="col text-center px-2">
+								<h3>
+									"You might just find your new favourite rocking blues funk
+									soul band in the form of these Cali-based cats."
+								</h3>
+								<h3 className="mt-3">- Steve Cooper, Metalville Zine</h3>
+							</div>
+							<div className="col-3"></div>
+						</div>
+					</div>
+					<div className="col-2 empty" />
+				</div>
+
+				<div className="row text-left">
+					<div className="col-2 empty" />
+					<div className="col">
+						<div className="row mt-5">
 							<div className="col">
 								<h3 className="Bio">
 									Porcelain Hill is an American Rock band, often expressing
-									elements of blues, classic rock, and soul.
-									<br />
-									<br />
-									Formed in 2013 out of Southern California, the band is
-									centered around core members, Singer/Guitarist Darnell "Big D"
-									Cole, Bassist Jakob Parnham, and Drummer "Wildfire" Campos.
+									elements of blues, classic rock, and soul. Formed in 2013 out
+									of Southern California, the band is centered around core
+									members, Singer/Guitarist Darnell "Big D" Cole, Bassist Jakob
+									Parnham, and Drummer "Wildfire" Campos.
 									<br />
 									<br />
 									From performing small, local backyard gigs, to sharing stages
@@ -34,6 +69,13 @@ function HomePage() {
 									group is on a mission to spread their gospel of Rock and Roll,
 									and positive vibes.
 								</h3>
+								<div className="bio-pic text-center">
+									<img
+										src="https://hosting.photobucket.com/images/i/PorcelainHill/Picsart_22-05-30_09-08-12-086.jpg"
+										alt=""
+										width="100%"
+									/>
+								</div>
 							</div>
 						</div>
 					</div>

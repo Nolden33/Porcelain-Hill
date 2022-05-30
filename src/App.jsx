@@ -27,9 +27,7 @@ function App() {
 					<Route path="/photos" element={<Photos />}></Route>
 				</Routes>
 				<footer>
-					<div class="border-top border-white w-75%">
-						<Footer />
-					</div>
+					<Footer />
 				</footer>
 			</div>
 		</React.Fragment>

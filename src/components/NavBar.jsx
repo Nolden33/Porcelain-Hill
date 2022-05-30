@@ -10,7 +10,8 @@ function NavBar() {
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">
 						<img
-							src="https://f4.bcbits.com/img/0028193512_21.jpg"
+							//src="https://f4.bcbits.com/img/0028193512_21.jpg"
+							src="https://hosting.photobucket.com/images/i/PorcelainHill/Picsart_22-05-30_09-15-58-924.png"
 							alt=""
 							width={150}
 							height={40}
