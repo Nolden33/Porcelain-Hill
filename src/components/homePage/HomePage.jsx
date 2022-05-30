@@ -43,6 +43,7 @@ function HomePage() {
 
         <Music />
 
+
         <br />
         <div className="row text-center mt-5 ">
           <div className="col-2 empty" />
@@ -101,6 +102,7 @@ function HomePage() {
       </div>
     </React.Fragment>
   );
+
 }
 
 export default HomePage;

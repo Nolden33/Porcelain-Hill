@@ -78,6 +78,10 @@ nav a.active {
   color: rgb(189, 61, 44);
 }
 
+/* .red {                         ********might add to show date table for *********
+  color: rgb(189, 61, 44);
+} */
+
 .app-bg {
   background-color: black;
 }
