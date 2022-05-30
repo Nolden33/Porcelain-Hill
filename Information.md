@@ -16,13 +16,14 @@ We will also include a admin section for the band members. The admin section wil
 
 This section will require a login the the band members and a forms to help them change the different components on their pages.
 ## Themes
-1) Background color: Black
-2) Text color: White 
-3) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
-4) Font Size: Standard
-5) All Components on home page will be centered with margins on each side.
-6) Responsive at md size 
-7) (possible Carousel for pictures)
+1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css file.
+2) Background color: Black
+3) Text color: White 
+4) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
+5) Font Size: Standard
+6) All Components on home page will be centered with margins on each side.
+7) Responsive at md size 
+8) (possible Carousel for pictures)
 ## Bio
       Porcelain Hill is an American Rock band, often Expressing elements of
       blues, classic rock, and soul. Formed in 2013 out of Southern
