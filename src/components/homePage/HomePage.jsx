@@ -36,7 +36,7 @@ function HomePage() {
                   <th scope="col">LOCATION</th>
                 </tr>
               </thead>
-              <tbody className="table-group-divider fs-6">
+              <tbody className="table-group-divider fs-5">
                 <tr>
                   <td>Friday, June 3</td>
                   <td>Perqs Bar</td>

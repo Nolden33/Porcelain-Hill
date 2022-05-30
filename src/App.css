@@ -73,6 +73,10 @@ nav a.active {
   line-height: 1.5;
 }
 
+/* .red {                         ********might add to show date table for *********
+  color: rgb(189, 61, 44);
+} */
+
 .app-bg {
   background-color: black;
 }
@@ -95,7 +99,7 @@ ul {
 
 .decorations-on-link {
   text-decoration: none;
-  color: orangered;
+  color: rgb(189, 61, 44);
 }
 
 .decorations-on-link:hover {
