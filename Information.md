@@ -1,12 +1,11 @@
 # Common Themes for the project 
 ## First things first...
-We are working on the HomePage only right now. 
-We will put:
-      1) a small Bio
-      2) Contact info 
-      3) Show dates
-      4) and a few music videos
-      5) also a under construction sign below the nav bar but above the info listed above.
+We are working on the HomePage only right now. We will put:
+1) a small Bio
+2) Contact info 
+3) Show dates
+4) and a few music videos
+5) also a under construction sign below the nav bar but above the info listed above.
 ## Themes
 1) Background color: Black
 2) Text color: White 
@@ -39,6 +38,9 @@ They sent four videos to us. Depending on space available and size of videos, we
 2) https://www.youtube.com/watch?v=T-dvKTaqBDs
 3) https://www.youtube.com/watch?v=nQARPVH2IiQ
 4) https://www.youtube.com/watch?v=fSEs5_-AAsk
-
+## Contact Info
+1) Primary: Porcelainhill@gmail.com
+2) IG: @Porcelainhillofficial
+3) FB: www.facebook.com/PorcelainHill
 ## Merch
 website to merch: https://skullprint.co.uk/shop/ols/categories/porcelain-hill
