@@ -1,11 +1,19 @@
 # Common Themes for the project 
+## First things first...
+We are working on the HomePage only right now. 
+We will put:
+      1) a small Bio
+      2) Contact info 
+      3) Show dates
+      4) and a few music videos
+      5) also a under construction sign below the nav bar but above the info listed above.
 ## Themes
 1) Background color: Black
 2) Text color: White 
 3) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
 4) Font Size: Standard
 5) All Components on home page will be centered with margins on each side.
-6) (possible Carisol for pictures)
+6) (possible Carousel for pictures)
 ## Bio
       Porcelain Hill is an American Rock band, often Expressing elements of
       blues, classic rock, and soul. Formed in 2013 out of Southern
