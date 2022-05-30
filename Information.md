@@ -16,7 +16,7 @@ We will also include a admin section for the band members. The admin section wil
 
 This section will require a login the the band members and a forms to help them change the different components on their pages.
 ## Themes
-1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css file.
+1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css FILE.
 2) Background color: Black
 3) Text color: White 
 4) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
