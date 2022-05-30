@@ -25,7 +25,8 @@
       7/17 Yucca Taproom, Phoenix AZ
 ## ShowDates
 They sent four videos to us. Depending on space available and size of videos, we can decide on how many to put:
-https://www.youtube.com/watch?v=T-dvKTaqBDs
-https://www.youtube.com/watch?v=nQARPVH2IiQ
-https://www.youtube.com/watch?v=fSEs5_-AAsk
-https://www.youtube.com/watch?v=M5kqi_jQyn4
+1) https://www.youtube.com/watch?v=M5kqi_jQyn4 
+2) https://www.youtube.com/watch?v=T-dvKTaqBDs
+3) https://www.youtube.com/watch?v=nQARPVH2IiQ
+4) https://www.youtube.com/watch?v=fSEs5_-AAsk
+
