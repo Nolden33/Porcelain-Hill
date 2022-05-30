@@ -60,8 +60,8 @@ They sent four videos to us. Depending on space available and size of videos, we
 6) Spotify: https://open.spotify.com/artist/4uQubakVAN2w1cFW2hRBco
 7) AppleMusic: https://music.apple.com/us/artist/porcelain-hill/839744050?fbclid=IwAR1t195EwQS7ImIkFfRscwY-r7ScLMrj-SpYgGvQUFspFAopsE5qYjtyk2s
 ## Links Associated with the Band
-website to merch: https://skullprint.co.uk/shop/ols/categories/porcelain-hill
-website for showdates: https://www.songkick.com/artists/9104889-porcelain-hill/calendar?fbclid=IwAR0OvjhTQU_PiLSGFG2B1zXYnPZlm1UllLSFVhrCEDebc8eQESLOpRyWjIg
+website to merch: https://skullprint.co.uk/shop/ols/categories/porcelain-hill \
+website for showdates: https://www.songkick.com/artists/9104889-porcelain-hill/calendar?fbclid=IwAR0OvjhTQU_PiLSGFG2B1zXYnPZlm1UllLSFVhrCEDebc8eQESLOpRyWjIg \
 website for pictures: https://next.photobucket.com/u/PorcelainHill?login=true&overcount=true&overspace=true&overstorage=true&planId=expert-monthly
 ## Other Bands' Pages For References
 1) Porcelian Hill's first website: https://porcelainhill.com/
