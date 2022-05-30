@@ -2,7 +2,7 @@
 ## Themes
 1) Background color: Black
 2) Text color: White 
-3) Font Type: PT Serif
+3) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
 4) Font Size: Standard
 5) All Components on home page will be centered with margins on each side.
 6) (possible Carisol for pictures)
