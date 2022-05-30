@@ -1,6 +1,7 @@
 import React from "react";
 import {
   faApple,
+  faBandcamp,
   faFacebook,
   faInstagram,
   faSpotify,
@@ -12,8 +13,8 @@ function Footer() {
   return (
     <React.Fragment>
       <div className="container">
-        <div className="row">
-          <div className="col-4">
+        <div className="row d-flex justify-content-evenly">
+          <div className="col-4 mt-3 d-flex justify-content-center">
             <ul>
               <li className="item">
                 <a className="decorations-on-link" href="/">
@@ -93,6 +94,14 @@ function Footer() {
                 className="decorations-on-link ms-2"
               >
                 <FontAwesomeIcon icon={faApple} fontSize={30} />
+              </a>
+              <a
+                href="https://porcelainhill.bandcamp.com/?fbclid=IwAR2F8zkACZrPDMpF_mPwwuF3mi6KuCfMOLzZCDALRDDrhUS5nvJps_Id8ds"
+                target="_blank"
+                rel="noreferrer"
+                className="decorations-on-link ms-2"
+              >
+                <FontAwesomeIcon icon={faBandcamp} fontSize={30} />
               </a>
             </div>
           </div>
