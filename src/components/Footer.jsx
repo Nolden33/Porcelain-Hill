@@ -7,71 +7,71 @@ import {
   faSpotify,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
+import { faEnvelopeOpenText } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // import { Formik, Field, Form } from "formik";
 
-
 function Footer() {
-	return (
-		<React.Fragment>
-			<div className="container">
-				<div className="row py-4 border-top my-5 border-white">
-					<div className="col-4">
-						<ul>
-							<li className="item">
-								<a className="decorations-on-link" href="/">
-									Home
-								</a>
-							</li>
-							<li className="item">
-								<a className="decorations-on-link" href="/bio">
-									Bio/About
-								</a>
-							</li>
-							<li className="item">
-								<a
-									className="decorations-on-link"
-									href="https://skullprint.co.uk/shop/ols/categories/porcelain-hill"
-								>
-									Merch
-								</a>
-							</li>
-							<li className="item">
-								<a className="decorations-on-link" href="/showdates">
-									Show Dates
-								</a>
-							</li>
-							<li className="item">
-								<a className="decorations-on-link" href="/music">
-									Music
-								</a>
-							</li>
-							<li className="item">
-								<a className="decorations-on-link" href="/photos">
-									Photos
-								</a>
-							</li>
-						</ul>
-					</div>
-					<div className="col-4">
-						<div className="socialMedia">
-							<a
-								href="https://www.instagram.com/porcelainhillofficial/?hl=en"
-								target="_blank"
-								rel="noreferrer"
-								className="decorations-on-link ms-2"
-							>
-								<FontAwesomeIcon icon={faInstagram} fontSize={30} />
-							</a>
-							<a
-								href="https://www.facebook.com/PorcelainHill"
-								target="_blank"
-								rel="noreferrer"
-								className="decorations-on-link ms-2"
-							>
-								<FontAwesomeIcon icon={faFacebook} fontSize={30} />
-							</a>
+  return (
+    <React.Fragment>
+      <div className="container">
+        <div className="row py-4 border-top my-5 border-white">
+          <div className="col-4">
+            <ul>
+              <li className="item">
+                <a className="decorations-on-link" href="/">
+                  Home
+                </a>
+              </li>
+              <li className="item">
+                <a className="decorations-on-link" href="/bio">
+                  Bio/About
+                </a>
+              </li>
+              <li className="item">
+                <a
+                  className="decorations-on-link"
+                  href="https://skullprint.co.uk/shop/ols/categories/porcelain-hill"
+                >
+                  Merch
+                </a>
+              </li>
+              <li className="item">
+                <a className="decorations-on-link" href="/showdates">
+                  Show Dates
+                </a>
+              </li>
+              <li className="item">
+                <a className="decorations-on-link" href="/music">
+                  Music
+                </a>
+              </li>
+              <li className="item">
+                <a className="decorations-on-link" href="/photos">
+                  Photos
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div className="col-4">
+            <div className="socialMedia">
+              <a
+                href="https://www.instagram.com/porcelainhillofficial/?hl=en"
+                target="_blank"
+                rel="noreferrer"
+                className="decorations-on-link ms-2"
+              >
+                <FontAwesomeIcon icon={faInstagram} fontSize={30} />
+              </a>
+              <a
+                href="https://www.facebook.com/PorcelainHill"
+                target="_blank"
+                rel="noreferrer"
+                className="decorations-on-link ms-2"
+              >
+                <FontAwesomeIcon icon={faFacebook} fontSize={30} />
+              </a>
               <a
                 href=" https://www.youtube.com/c/PorcelainHill"
                 target="_blank"
@@ -108,8 +108,13 @@ function Footer() {
           </div>
 
           <div className="col-4">
-            <h3 className="text-style text-center mt-3 red">CONTACT US</h3>
-            <h4 className="text-style text-center mt-3">
+            <div className="email-logo">
+              <FontAwesomeIcon icon={faEnvelopeOpenText} fontSize={30} />
+            </div>
+            <h3 className="text-style text-center mt-3 red contact-title">
+              CONTACT US
+            </h3>
+            <h4 className="text-style text-center contact">
               <a href="mailto: porcelainhill@gmail.com">
                 porcelainhill@gmail.com
               </a>
@@ -157,9 +162,6 @@ function Footer() {
               </Formik>
             </div> */}
           </div>
-
-        
-
         </div>
       </div>
     </React.Fragment>
