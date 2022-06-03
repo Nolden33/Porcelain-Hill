@@ -105,6 +105,24 @@ function HomePage() {
                     height={288}
                     width="50%"
                     scrolling="no"
+                    src="https://www.youtube.com/embed/T-dvKTaqBDs"
+                  ></iframe>
+                  <iframe
+                    className="px-2"
+                    title="video 3"
+                    frameborder="0"
+                    height={288}
+                    width="50%"
+                    scrolling="no"
+                    src="https://www.youtube.com/embed/nQARPVH2IiQ"
+                  ></iframe>
+                  <iframe
+                    className="px-2"
+                    title="video 4"
+                    frameborder="0"
+                    height={288}
+                    width="50%"
+                    scrolling="no"
                     src="https://www.youtube.com/embed/fSEs5_-AAsk"
                   ></iframe>
                 </div>
@@ -141,12 +159,22 @@ function HomePage() {
                 </tr>
                 <tr>
                   <td>Thursday, June 23 </td>
-                  <td>James Taphouse</td>
+                  <td>James Joyce</td>
+                  <td>Santa Barbara, CA</td>
+                </tr>
+                <tr>
+                  <td>Friday, July 1 </td>
+                  <td>Berkeley Untapped</td>
+                  <td>Denver, CO</td>
+                </tr>
+                <tr>
+                  <td>Saturday, July 2 </td>
+                  <td>146 Taphouse</td>
                   <td>Salida, CO</td>
                 </tr>
                 <tr>
                   <td>Thursday, July 7</td>
-                  <td>Cutting room</td>
+                  <td>Cutting Room</td>
                   <td>New York, NY</td>
                 </tr>
                 <tr>
