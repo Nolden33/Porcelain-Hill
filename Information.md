@@ -10,7 +10,7 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 ### Other Components 
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
 
-These components will be set up like the friends/jobs/techCo class project we created before.
+These components will be set up like the friends/jobs/techCo project we've created before.
 ### Admin section
 We will also include a admin section for the band members. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
 
