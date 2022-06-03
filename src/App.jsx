@@ -14,7 +14,7 @@ import { Routes, Route } from "react-router-dom";
 function App() {
 	return (
 		<React.Fragment>
-			<div className="app-bg">
+			<div className="container-fluid App app-bg">
 				<header>
 					<PageBanner />
 					<NavBar />
