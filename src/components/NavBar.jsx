@@ -4,8 +4,8 @@ function NavBar() {
 	return (
 		<React.Fragment>
 			<nav
-				className="navbar navbar-expand-md navbar-dark px-3"
-				style={{ backgroundColor: "#000" }}
+				className="navbar navbar-expand-md navbar-dark px-3 mx-auto"
+				style={{ backgroundColor: "#000" }} //, width: 1600
 			>
 				<div className="container-fluid">
 					<a className="navbar-brand" href="/">

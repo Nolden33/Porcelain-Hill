@@ -55,9 +55,9 @@ function HomePage() {
 					<div className="col">
 						<div className="row">
 							<div className="col">
-								<h2 className="Bio text-center font-weight-big mt-5">
+								<h1 className="Bio text-center font-weight-big mt-5">
 									ABOUT US
-								</h2>
+								</h1>
 								<h3 className="Bio">
 									Porcelain Hill is an American Rock band, often expressing
 									elements of blues, classic rock, and soul. Formed in 2013 out
@@ -85,37 +85,37 @@ function HomePage() {
 					<div className="col-2 empty" />
 				</div>
 
-				        <div className="container-fluid-md text-style app-bg">
-          <div className="row text-left">
-            <div className="col-2 empty" />
-            <div className="col">
-              <div className="videos">
-                <h3 className="text-center mt-5">VIDEOS</h3>
-                <div className="iframe-container">
-                  <iframe
-                    className="px-2"
-                    title="video 1"
-                    frameborder="0"
-                    height={288}
-                    width="50%"
-                    scrolling="no"
-                    src="https://www.youtube.com/embed/M5kqi_jQyn4"
-                  ></iframe>
-                  <iframe
-                    className="px-2"
-                    title="video 2"
-                    frameborder="0"
-                    height={288}
-                    width="50%"
-                    scrolling="no"
-                    src="https://www.youtube.com/embed/fSEs5_-AAsk"
-                  ></iframe>
-                </div>
-              </div>
-            </div>
-            <div className="col-2 empty" />
-          </div>
-        </div>
+				<div className="container-fluid-md text-style app-bg">
+					<div className="row text-left">
+						<div className="col-2 empty" />
+						<div className="col">
+							<div className="videos">
+								<h3 className="text-center mt-5">VIDEOS</h3>
+								<div className="iframe-container">
+									<iframe
+										className="px-2"
+										title="video 1"
+										frameborder="0"
+										height={288}
+										width="50%"
+										scrolling="no"
+										src="https://www.youtube.com/embed/M5kqi_jQyn4"
+									></iframe>
+									<iframe
+										className="px-2"
+										title="video 2"
+										frameborder="0"
+										height={288}
+										width="50%"
+										scrolling="no"
+										src="https://www.youtube.com/embed/fSEs5_-AAsk"
+									></iframe>
+								</div>
+							</div>
+						</div>
+						<div className="col-2 empty" />
+					</div>
+				</div>
 
 				<br />
 				<div className="row text-center mt-3 ">
