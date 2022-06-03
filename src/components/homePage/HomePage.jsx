@@ -55,9 +55,9 @@ function HomePage() {
 					<div className="col">
 						<div className="row">
 							<div className="col">
-								<h2 className="Bio text-center font-weight-big mt-5">
+								<h1 className="Bio text-center font-weight-big mt-5">
 									ABOUT US
-								</h2>
+								</h1>
 								<h3 className="Bio">
 									Porcelain Hill is an American Rock band, often expressing
 									elements of blues, classic rock, and soul. Formed in 2013 out

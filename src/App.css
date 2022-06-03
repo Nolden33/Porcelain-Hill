@@ -121,26 +121,26 @@ ul {
 }
 
 .socialMedia {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  bottom: -90px;
-  align-items: flex-end;
-  padding: 10px;
+	display: flex;
+	justify-content: center;
+	position: relative;
+	bottom: -90px;
+	align-items: flex-end;
+	padding: 10px;
 }
 
 .contact-title {
-  position: relative;
-  top: -10px;
+	position: relative;
+	top: -10px;
 }
 .contact {
-  position: relative;
-  bottom: -40px;
+	position: relative;
+	bottom: -40px;
 }
 
 .email-logo {
-  position: relative;
-  bottom: -90px;
-  right: -200px;
-  color: white;
+	position: relative;
+	bottom: -90px;
+	right: -200px;
+	color: white;
 }
