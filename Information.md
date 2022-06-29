@@ -13,22 +13,22 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
 
 #### Home Page 
-1) Will show all the `base_____Col.jsx` (`base`) from the various different routes.
-2) Will need to create a base for the most recent FB and IG post on the Homepage.
+1) Will show all the `base_____Col.jsx` (will be written as `Base` on this page) from the various different routes.
+2) Will need to create a `Base` for the most recent FB and IG post on the Homepage.
 #### Bio/About Page
-1) Base added to page already
+1) `Base` added to page already
 2) Gather more information for the Band to fill the page more. 
 #### Shows Page
-1) Base added to page already
+1) `Base` added to page already
 2) Will need a formik to add shows to the page
 3) Venues' Name should be a clickable link to that venue's website
 4) All shows need to be in order by upcoming date.
-5) eventually the base being sent to the homepage will need to be paginated with the 8 most upcoming shows
-6) the Shows page will show the first 8 and all shows after the base 8
+5) eventually the `Base` being sent to the homepage will need to be paginated with the 8 most upcoming shows
+6) the Shows page will show the `Base` 8 and all shows after the `Base` 8
 7) when the actual date passes the shows date, then the show need to be automatically deleted.
 #### Music/Photos Page
-1) Base for music added to page already
-2) No need for a photos base in home page
+1) `Base` for music added to page already
+2) No need for a photos `Base` in home page
 3) Will combine music and photos 
 4) need to switch Mucis tab in navbar to Music/Photos
 5) band wants a Spotify demo player at the top of this page. it is on their previous website
@@ -36,7 +36,7 @@ Later when we decide on a backend database, we will start adding to the differen
 1) Band wants a page for their social medias. some people are not on social medias and they want a spot on their website where those people can follow their socail media posts.
 2) I think FaceBook and Instragram will be enough
 3) need to add this as a tab in the navbar 
-4) need to create a base for the most recent FB and IG post on the Homepage.
+4) need to create a `Base` for the most recent FB and IG post on the Homepage.
 
 ### Admin section
 We will also include a admin section for the band members. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
@@ -50,7 +50,7 @@ We will also include a admin section for the band members. The admin section wil
 4) Font Type: PT Serif  -> https://fonts.google.com/specimen/PT+Serif
 5) Font Size: Standard
 6) Everything on the home page will be centered with margins on each side.
-7) All routes in the App.jsx (except for Merch) will have a Component with a base_____Col.jsx, this base will show on both the Homepage and the respective route's page.
+7) All routes in the App.jsx (except for Merch) will have a Component with a `base_____Col.jsx`, this base will show on both the Homepage and the respective route's page.
 8) Responsive at LG size 
 9) (possible Carousel for pictures)
 ## Bio
