@@ -43,15 +43,15 @@ nav {
 	display: block;
 	padding: 0.7rem 1.7rem;
 	z-index: 2;
-	position: fixed;
+	position: sticky;
 	top: 0;
 	bottom: 2rem;
 	display: inline-flex;
 	backdrop-filter: blur(15px);
-	/* left: auto;
-	right: auto;
+	left: -17%;
+	right: 35%;
 	transform: translateX(15%);
-	text-align: center; */
+	/* text-align: center; */
 	/* gap: 0.8rem; */
 	/* border-radius: 3rem; */
 	/* align-items: center; */
