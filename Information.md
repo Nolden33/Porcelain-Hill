@@ -13,7 +13,7 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
 
 #### Home Page 
-1) Will show all the base_____Col.jsx from the various different routes.
+1) Will show all the `base_____Col.jsx` (`base`) from the various different routes.
 2) Will need to create a base for the most recent FB and IG post on the Homepage.
 #### Bio/About Page
 1) Base added to page already
