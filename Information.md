@@ -12,6 +12,11 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 ### Which Database?
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
 
+### Admin section
+We need to establish an admin separation before we continue. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
+1) This section will require a login for the band members
+2) Later, we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
+
 #### Home Page 
 1) Will show all the `base_____Col.jsx` (will be written as `Base` on this page) from the various different routes.
 2) Will need to create a `Base` for the most recent FB and IG post on the Homepage.
@@ -37,11 +42,6 @@ Later when we decide on a backend database, we will start adding to the differen
 2) I think FaceBook and Instragram will be enough
 3) need to add this as a tab in the navbar 
 4) need to create a `Base` for the most recent FB and IG post on the Homepage.
-
-### Admin section
-We will also include a admin section for the band members. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
-1) This section will require a login for the band members
-2) we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
 
 ## Themes
 1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css FILE.
