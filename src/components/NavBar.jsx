@@ -10,8 +10,8 @@ function NavBar() {
 						className="navbar navbar-expand-md navbar-dark px-3 m-auto"
 						//style={{ backgroundColor: "#000", marginLeft: 35 }}
 					>
-						<div className="container-fluid">
-							<a className="navbar-brand" href="/">
+						<div className="container-fluid d-flex">
+							<a className="navbar-brand px-3 flex-fill" href="/">
 								<img
 									//src="https://f4.bcbits.com/img/0028193512_21.jpg"
 									src="https://hosting.photobucket.com/images/i/PorcelainHill/Picsart_22-05-30_09-15-58-924.png"
@@ -36,40 +36,40 @@ function NavBar() {
 								id="navbarTogglerDemo01"
 							>
 								<ul className="navbar-nav me-auto mb-2 mb-lg-0">
-									<li className="nav-item">
+									<li className="nav-item px-3 flex-fill">
 										<a className="nav-link active" aria-current="page" href="/">
-											<h2>Home</h2>
+											<h1>Home</h1>
 										</a>
 									</li>
-									<li className="nav-item d-none">
+									<li className="nav-item px-3 flex-fill">
 										<a className="nav-link" href="/bio">
-											<h2>Bio/About</h2>
+											<h1>Bio/About</h1>
 										</a>
 									</li>
-									<li className="nav-item">
+									<li className="nav-item px-3 flex-fill">
 										<a
 											className="nav-link"
 											href="https://skullprint.co.uk/shop/ols/categories/porcelain-hill"
 										>
-											<h2>Merch</h2>
+											<h1>Merch</h1>
 										</a>
 									</li>
-									<li className="nav-item d-none">
+									<li className="nav-item px-3 flex-fill">
 										<a className="nav-link" href="/showdates">
-											<h2>Show Dates</h2>
+											<h1>Shows</h1>
 										</a>
 									</li>
-									<li className="nav-item d-none">
+									<li className="nav-item px-3 flex-fill">
 										<a className="nav-link" href="/music">
-											<h2>Music </h2>
+											<h1>Music </h1>
 										</a>
 									</li>
-									<li className="nav-item d-none">
+									<li className="nav-item px-3 flex-fill">
 										<a className="nav-link" href="/photos">
-											<h2>Photo</h2>
+											<h1>Photo</h1>
 										</a>
 									</li>
-									<li className="nav-item dropdown d-none">
+									<li className="nav-item dropdown px-3 flex-fill d-none">
 										<a
 											className="nav-link dropdown-toggle"
 											href="/"

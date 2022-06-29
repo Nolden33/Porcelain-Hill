@@ -17,14 +17,14 @@ function Footer() {
 		<React.Fragment>
 			<div className="container ">
 				<div className="row py-4 border-top mt-5 border-white align-items-center">
-					<div className="col-4 text-center">
+					<div className="col-4 mt-4 text-center">
 						<ul>
 							<li className="item">
 								<a className="decorations-on-link" href="/">
 									Home
 								</a>
 							</li>
-							<li className="item d-none">
+							<li className="item">
 								<a className="decorations-on-link" href="/bio">
 									Bio/About
 								</a>
@@ -37,17 +37,17 @@ function Footer() {
 									Merch
 								</a>
 							</li>
-							<li className="item d-none">
+							<li className="item">
 								<a className="decorations-on-link" href="/showdates">
 									Show Dates
 								</a>
 							</li>
-							<li className="item d-none">
+							<li className="item">
 								<a className="decorations-on-link" href="/music">
 									Music
 								</a>
 							</li>
-							<li className="item d-none">
+							<li className="item">
 								<a className="decorations-on-link" href="/photos">
 									Photos
 								</a>
