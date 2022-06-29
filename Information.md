@@ -15,7 +15,10 @@ Later when we decide on a backend database, we will start adding to the differen
 ### Admin section
 We need to establish an admin separation before we continue. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
 1) This section will require a login for the band members
-2) Later, we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
+2) Will need an Admin Home page
+3) Admin Home page will need name of current user at top, a list of all possible admins (with ONLY EDIT AND DELETE buttons) and a change password button.
+5) Later, we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
+6) All API responses will have toastrs as extra verification for admin
 
 #### Home Page 
 1) Will show all the `base_____Col.jsx` (will be written as `Base` on this page) from the various different routes.
