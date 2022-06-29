@@ -6,10 +6,12 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 3) Show dates
 4) and a few music videos
 5) also a under construction sign below the nav bar but above the info listed above.
-## In the future...
-### Other Components 
+## Secondly... ***HERE***
+### Adjusting the Components 
+
 ### Which Database?
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
+
 #### Home Page 
 1) Will show all the base_____Col.jsx from the various different routes.
 2) Will need to create a base for the most recent FB and IG post on the Homepage.
@@ -38,8 +40,9 @@ Later when we decide on a backend database, we will start adding to the differen
 
 ### Admin section
 We will also include a admin section for the band members. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
-1) This section will require a login the the band members and a forms to help them change the different components on their pages.
-2) we will need to add extra buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
+1) This section will require a login for the band members
+2) we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
+
 ## Themes
 1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css FILE.
 2) Background color: Black
