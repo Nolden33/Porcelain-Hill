@@ -92,6 +92,10 @@ nav a.active {
 	background-color: black;
 }
 
+.bg-red {
+	background-color: rgb(189, 61, 44);
+}
+
 .text-left {
 	text-align: left;
 }
