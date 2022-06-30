@@ -11,6 +11,7 @@ For right now, we are working on the hard coding the HomePage only. We will put:
 
 ### Which Database?
 Later when we decide on a backend database, we will start adding to the different component pages of the website. We can divide up the responsibilites and create the different components of the page. \
+To make the database live we need to use azure or netlify (azuse is more common on applications)
 
 ### Admin section
 We need to establish an admin separation before we continue. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
@@ -21,7 +22,7 @@ We need to establish an admin separation before we continue. The admin section w
 6) All API responses will have toastrs as extra verification for admin
 
 #### Home Page 
-1) Will show all the `base_____Col.jsx` (will be written as `Base` on this page) from the various different routes.
+1) All the routes will have a `base_____Col.jsx` component (will be written as `Base` on this page).
 2) Will need to create a `Base` for the most recent FB and IG post on the Homepage.
 #### Bio/About Page
 1) `Base` added to page already
@@ -43,8 +44,9 @@ We need to establish an admin separation before we continue. The admin section w
 #### Social Media Page
 1) Band wants a page for their social medias. some people are not on social medias and they want a spot on their website where those people can follow their socail media posts.
 2) I think FaceBook and Instragram will be enough
-3) need to add this as a tab in the navbar 
-4) need to create a `Base` for the most recent FB and IG post on the Homepage.
+3) these posts will be paginated 
+4) need to add this as a tab in the navbar 
+5) need to create a `Base` for the most recent FB and IG post on the Homepage (one for each site).
 
 ## Themes
 1) ALL .css FOR THIS PROJECT WILL GO IN THE App.css FILE.
