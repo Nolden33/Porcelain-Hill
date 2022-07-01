@@ -17,7 +17,7 @@ To make the database live we need to use azure or netlify (azuse is more common 
 We need to establish an admin separation before we continue. The admin section will be added so that the band members can make changes to their page without having to contact us for help. 
 1) This section will require a login for the band members
 2) Will need an Admin Home page
-3) add Admin Home page to navbar
+3) add Admin Home page to navbar when an admin is logged in
 4) Admin Home page will need name of current user at top, analytics, a list of all possible admins (with ONLY EDIT AND DELETE buttons) and a change password button.
 5) Later, we will need to add extra forms and buttons (like add, edit and delete buttons) to almost all components that allow the band to make changes
 6) All API responses will have toastrs as extra verification for admin
