@@ -1,85 +1,85 @@
 .App {
-	text-align: center;
+  text-align: center;
 }
 
 .App-logo {
-	height: 40vmin;
-	pointer-events: none;
+  height: 40vmin;
+  pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-	.App-logo {
-		animation: App-logo-spin infinite 20s linear;
-	}
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
 }
 
 .App-header {
-	background-color: #282c34;
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	font-size: calc(10px + 2vmin);
-	color: white;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
 .App-link {
-	color: #61dafb;
+  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 nav {
-	background: rgba(0, 0, 0, 0.3);
-	width: 100%;
-	display: block;
-	padding: 0.7rem 1.7rem;
-	z-index: 2;
-	position: fixed;
-	bottom: 2rem;
-	display: flow-root;
-	backdrop-filter: blur(15px);
-	left: 50%;
-	transform: translateX(-50%);
-	text-align: center;
-	/* gap: 0.8rem; */
-	/* border-radius: 3rem; */
-	/* align-items: center; */
-	justify-content: center;
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  display: block;
+  padding: 0.7rem 1.7rem;
+  z-index: 2;
+  position: fixed;
+  bottom: 2rem;
+  display: flow-root;
+  backdrop-filter: blur(15px);
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  /* gap: 0.8rem; */
+  /* border-radius: 3rem; */
+  /* align-items: center; */
+  justify-content: center;
 }
 
 nav a {
-	background: transparent;
-	padding: 0.8rem;
-	border-radius: 50%;
-	display: flex;
-	font-size: 1.1rem;
+  background: transparent;
+  padding: 0.8rem;
+  border-radius: 50%;
+  display: flex;
+  font-size: 1.1rem;
 }
 
 nav a.active {
-	background: var(--color-bg);
-	color: var(--color-white);
+  background: var(--color-bg);
+  color: var(--color-white);
 }
 
 .text-style {
-	color: white;
-	font-family: "PT Serif", serif;
-	line-height: 1.5;
+  color: white;
+  font-family: "PT Serif", serif;
+  line-height: 1.5;
 }
 .red {
-	color: rgb(189, 61, 44);
+  color: rgb(189, 61, 44);
 }
 
 .font-weight-big {
-	font-weight: 900;
+  font-weight: 900;
 }
 
 /* .red {                         ********might add to show date table for *********
@@ -87,36 +87,36 @@ nav a.active {
 } */
 
 .app-bg {
-	background-color: black;
+  background-color: black;
 }
 
 .text-left {
-	text-align: left;
+  text-align: left;
 }
 
 .text-center {
-	text-align: center;
+  text-align: center;
 }
 
 .text-right {
-	text-align: right;
+  text-align: right;
 }
 
 ul {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 .decorations-on-link {
-	text-decoration: none;
-	color: rgb(189, 61, 44);
+  text-decoration: none;
+  color: rgb(189, 61, 44);
 }
 
 .decorations-on-link:hover {
-	color: white;
+  color: white;
 }
 
 .item {
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .socialMedia {
