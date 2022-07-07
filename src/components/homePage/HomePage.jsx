@@ -5,6 +5,7 @@ import BaseTestimonyCol from "../bio/BaseTestimonyCol";
 import BaseBioCol from "../bio/BaseBioCol";
 
 function HomePage() {
+
 	return (
 		<React.Fragment>
 			<div className="container-fluid-lg text-style app-bg">
