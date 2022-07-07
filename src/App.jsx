@@ -9,12 +9,14 @@ import Music from "./components/music/Music";
 import Photos from "./components/photos/Photos";
 import PageBanner from "./components/PageBanner";
 import Footer from "./components/Footer";
+import AdminLogin from "./components/admin/AdminLogin";
+import AdminHome from "./components/admin/AdminHome";
 import { Routes, Route } from "react-router-dom";
 
 function App() {
 	return (
 		<React.Fragment>
-			<div className="app-bg">
+			<div className="container-fluid App app-bg">
 				<header>
 					<PageBanner />
 					<NavBar />
@@ -25,11 +27,11 @@ function App() {
 					<Route path="/showdates" element={<ShowDates />}></Route>
 					<Route path="/music" element={<Music />}></Route>
 					<Route path="/photos" element={<Photos />}></Route>
+					<Route path="/login" element={<AdminLogin />}></Route>
+					<Route path="/adminHome" element={<AdminHome />}></Route>
 				</Routes>
 				<footer>
-					<div class="border-top border-white w-75%">
-						<Footer />
-					</div>
+					<Footer />
 				</footer>
 			</div>
 		</React.Fragment>

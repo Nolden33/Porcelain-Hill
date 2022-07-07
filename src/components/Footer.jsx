@@ -1,22 +1,23 @@
 import React from "react";
 import {
   faApple,
+  faBandcamp,
   faFacebook,
   faInstagram,
   faSpotify,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
+import { faEnvelopeOpenText } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // import { Formik, Field, Form } from "formik";
 
-
 function Footer() {
   return (
     <React.Fragment>
-      <div className="container">
-        <div className="row">
-          <div className="col-4">
+      <div className="container ">
+        <div className="row py-4 border-top mt-5 border-white align-items-center">
+          <div className="col-4 mt-4 text-center">
             <ul>
               <li className="item">
                 <a className="decorations-on-link" href="/">
@@ -32,6 +33,8 @@ function Footer() {
                 <a
                   className="decorations-on-link"
                   href="https://skullprint.co.uk/shop/ols/categories/porcelain-hill"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   Merch
                 </a>
@@ -53,8 +56,8 @@ function Footer() {
               </li>
             </ul>
           </div>
-          <div className="col-4">
-            <div className="socialMedia">
+          <div className="col-4 text-center">
+            <div className="">
               <a
                 href="https://www.instagram.com/porcelainhillofficial/?hl=en"
                 target="_blank"
@@ -63,7 +66,6 @@ function Footer() {
               >
                 <FontAwesomeIcon icon={faInstagram} fontSize={30} />
               </a>
-
               <a
                 href="https://www.facebook.com/PorcelainHill"
                 target="_blank"
@@ -72,7 +74,6 @@ function Footer() {
               >
                 <FontAwesomeIcon icon={faFacebook} fontSize={30} />
               </a>
-
               <a
                 href=" https://www.youtube.com/c/PorcelainHill"
                 target="_blank"
@@ -81,6 +82,7 @@ function Footer() {
               >
                 <FontAwesomeIcon icon={faYoutube} fontSize={30} />
               </a>
+              <br />
               <a
                 href=" https://open.spotify.com/artist/4uQubakVAN2w1cFW2hRBco"
                 target="_blank"
@@ -97,15 +99,24 @@ function Footer() {
               >
                 <FontAwesomeIcon icon={faApple} fontSize={30} />
               </a>
+              <a
+                href="https://porcelainhill.bandcamp.com/?fbclid=IwAR2F8zkACZrPDMpF_mPwwuF3mi6KuCfMOLzZCDALRDDrhUS5nvJps_Id8ds"
+                target="_blank"
+                rel="noreferrer"
+                className="decorations-on-link ms-2"
+              >
+                <FontAwesomeIcon icon={faBandcamp} fontSize={30} />
+              </a>
             </div>
           </div>
 
           <div className="col-4">
-            <h3 className="text-style text-center mt-3 red">CONTACT US</h3>
-            <h4 className="text-style text-center mt-3">
-              <a href="mailto: porcelainhill@gmail.com">
-                porcelainhill@gmail.com
-              </a>
+            <div className="email-logo d-none">
+              <FontAwesomeIcon icon={faEnvelopeOpenText} fontSize={30} />
+            </div>
+            <h3 className="text-style text-center mt-3 red ">CONTACT US</h3>
+            <h4 className="text-style text-center">
+              <a href="mailto: porcelainhill@gmail.com">porcelainhill</a>
             </h4>
 
             {/* <div className="text-style text-center">
@@ -150,9 +161,6 @@ function Footer() {
               </Formik>
             </div> */}
           </div>
-
-        
-
         </div>
       </div>
     </React.Fragment>
