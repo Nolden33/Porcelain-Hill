@@ -72,48 +72,48 @@ function NavBar() {
 										<a className="nav-link" href="/photos">
 											<h1>Photo</h1>
 										</a>
-									</li>
-									<li className="nav-item dropdown px-3 flex-fill d-none">
-										<a
-											className="nav-link dropdown-toggle"
-											href="/"
-											id="navbarDropdownMenuLink"
-											role="button"
-											data-bs-toggle="dropdown"
-											aria-expanded="false"
-										>
-											<h2>Dropdown link</h2>
-										</a>
-										<ul
-											className="dropdown-menu"
-											aria-labelledby="navbarDropdownMenuLink"
-										>
-											<li>
-												<a className="dropdown-item" href="/">
-													Action
-												</a>
-											</li>
-											<li>
-												<a className="dropdown-item" href="/">
-													Another action
-												</a>
-											</li>
-											<li>
-												<a className="dropdown-item" href="/">
-													Something else here
-												</a>
-											</li>
-										</ul>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</nav>
-				</div>
-				<div className="col-sm-4"></div>
-			</div>
-		</React.Fragment>
-	);
+									</li> */}
+                  <li className="nav-item dropdown px-3 flex-fill d-none">
+                    <a
+                      className="nav-link dropdown-toggle"
+                      href="/"
+                      id="navbarDropdownMenuLink"
+                      role="button"
+                      data-bs-toggle="dropdown"
+                      aria-expanded="false"
+                    >
+                      <h2>Dropdown link</h2>
+                    </a>
+                    <ul
+                      className="dropdown-menu"
+                      aria-labelledby="navbarDropdownMenuLink"
+                    >
+                      <li>
+                        <a className="dropdown-item" href="/">
+                          Action
+                        </a>
+                      </li>
+                      <li>
+                        <a className="dropdown-item" href="/">
+                          Another action
+                        </a>
+                      </li>
+                      <li>
+                        <a className="dropdown-item" href="/">
+                          Something else here
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div className="col-sm-4"></div>
+      </div>
+    </React.Fragment>
+  );
 }
 
 export default NavBar;
