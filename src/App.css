@@ -48,7 +48,7 @@ nav {
 	bottom: 2rem;
 	display: inline-flex;
 	backdrop-filter: blur(15px);
-	left: -17%;
+	left: -50%;
 	right: 35%;
 	transform: translateX(15%);
 	/* text-align: center; */

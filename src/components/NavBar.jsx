@@ -11,7 +11,7 @@ function NavBar() {
 						//style={{ backgroundColor: "#000", marginLeft: 35 }}
 					>
 						<div className="container-fluid d-flex">
-							<a className="navbar-brand px-3 flex-fill" href="/">
+							<a className="navbar-brand px-3 flex-fill" href="/Porcelain-Hill">
 								<img
 									//src="https://f4.bcbits.com/img/0028193512_21.jpg"
 									src="https://hosting.photobucket.com/images/i/PorcelainHill/Picsart_22-05-30_09-15-58-924.png"
@@ -37,7 +37,11 @@ function NavBar() {
 							>
 								<ul className="navbar-nav me-auto mb-2 mb-lg-0">
 									<li className="nav-item px-3 flex-fill">
-										<a className="nav-link active" aria-current="page" href="/">
+										<a
+											className="nav-link active"
+											aria-current="page"
+											href="/Porcelain-Hill"
+										>
 											<h1>Home</h1>
 										</a>
 									</li>
